@@ -44,14 +44,23 @@ Provided actionable recommendations for the company based on the analysis.
 The analysis revealed several critical insights, including:
 
 Education Demographics: Target graduation-level students with tailored marketing campaigns.
+
 Marital Status and Birth Years: Craft promotions suitable for married individuals in the 1960-1980 age range.
+
 Campaign Response Dynamics: Investigate reasons behind a high number of declines and refine future campaigns.
+
 Wine Expenditure and Income: Target customers with higher incomes for wine-related promotions.
+
 Income and Product Spending: Tailor product promotions based on income levels.
+
 Offer Acceptance Ratio by Education: Design offers appealing to graduation-level students.
+
 Marital Status and Offer Decline: Customize offers for married customers to increase acceptance rates.
+
 Widows' Spending Patterns: Design promotions catering to widows to increase spending.
+
 Recency Rate by Marital Status: Explore and capitalize on the higher recency rate in the "Absurd" category.
+
 Purchase Preferences: Optimize in-store experiences and promotions based on customer preferences.
 
 ## Conclusion
