@@ -1,19 +1,30 @@
-Customer Purchase Behavior Analysis Project
+**Customer Purchase Behavior Analysis Project
+**
+
+
 Overview
+
 Welcome to the Customer Purchase Behavior Analysis project! This project involves the thorough analysis of a dataset containing customer information and purchasing behavior. The objective is to uncover patterns, trends, and correlations within the data, ultimately providing valuable insights to optimize marketing efforts and increase offer acceptance rates.
 
 Project Tasks and Deliverables
+
 Task 1 - Basic CleanUp
+
 Cleaned and Preprocessed Dataset:
 
 Detailed report on handling missing values and data types.
+
 Ensured consistency in data types for each variable.
+
 Summary of Basic Statistics:
 
 Calculated mean, median, variance, and standard deviation for relevant numerical variables.
+
 Task 2 - Descriptive Statistics
+
 Calculated measures of central tendency and dispersion for key variables.
 Identified and handled outliers when necessary.
+
 Task 3 - Probability Distributions
 Determined suitable probability distributions for relevant variables.
 Calculated probabilities and expected values based on these distributions.
