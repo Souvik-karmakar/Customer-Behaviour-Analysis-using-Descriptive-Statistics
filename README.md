@@ -20,27 +20,27 @@ Summary of Basic Statistics:
 
 Calculated mean, median, variance, and standard deviation for relevant numerical variables.
 
-###Task 2 - Descriptive Statistics
+### Task 2 - Descriptive Statistics
 
 Calculated measures of central tendency and dispersion for key variables.
 Identified and handled outliers when necessary.
 
-###Task 3 - Probability Distributions
+### Task 3 - Probability Distributions
 
 Determined suitable probability distributions for relevant variables.
 Calculated probabilities and expected values based on these distributions.
 
-###Task 4 - Insights and Customer Segmentation
+### Task 4 - Insights and Customer Segmentation
 
 Explored relationships between customer characteristics and spending habits.
 Segmented customers based on behaviors and characteristics.
 
-###Task 5 - Conclusion and Recommendations
+### Task 5 - Conclusion and Recommendations
 Designed visualizations showcasing key insights.
 Provided actionable recommendations for the company based on the analysis.
 
 
-##Key Insights and Recommendations
+## Key Insights and Recommendations
 The analysis revealed several critical insights, including:
 
 Education Demographics: Target graduation-level students with tailored marketing campaigns.
@@ -54,6 +54,6 @@ Widows' Spending Patterns: Design promotions catering to widows to increase spen
 Recency Rate by Marital Status: Explore and capitalize on the higher recency rate in the "Absurd" category.
 Purchase Preferences: Optimize in-store experiences and promotions based on customer preferences.
 
-##Conclusion
+## Conclusion
 
 This analysis provides valuable insights into customer behavior and preferences, offering actionable recommendations to optimize marketing strategies. Continual monitoring and adaptation will be crucial for refining these recommendations over time. By adopting a customer-centric approach and leveraging data-driven insights, the company can strengthen its position in the market and foster long-term customer relationships.
