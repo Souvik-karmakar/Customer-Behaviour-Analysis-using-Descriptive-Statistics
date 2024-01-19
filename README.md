@@ -1,14 +1,14 @@
-#Customer Purchase Behavior Analysis Project
+# Customer Purchase Behavior Analysis Project
 
 
 
-##Overview
+## Overview
 
 Welcome to the Customer Purchase Behavior Analysis project! This project involves the thorough analysis of a dataset containing customer information and purchasing behavior. The objective is to uncover patterns, trends, and correlations within the data, ultimately providing valuable insights to optimize marketing efforts and increase offer acceptance rates.
 
-##Project Tasks and Deliverables
+## Project Tasks and Deliverables
 
-###Task 1 - Basic CleanUp
+### Task 1 - Basic CleanUp
 
 Cleaned and Preprocessed Dataset:
 
